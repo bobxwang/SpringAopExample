@@ -10,7 +10,7 @@
   * 拦截器必须实现InvocationHanlder接口  
 - Cglib代理 
   * 代理对象是目标对象的子类，因为是继承，所有 final 的不会起作用的
-  * 拦截器必须实现MethodInterceptor接口  
+  * 拦截器必须实现MethodInterceptor接口  
 
 ##### Spring Aop
 
